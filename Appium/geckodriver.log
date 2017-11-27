@@ -1,0 +1,262 @@
+1511746877128	geckodriver	INFO	Listening on 127.0.0.1:18535
+1511746879128	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.vxLzVat0h8oW
+1511746879135	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511746879170	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18541
+1511746880914	Marionette	INFO	Listening on port 18541
+1511746882308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511746905617	geckodriver	INFO	Listening on 127.0.0.1:18653
+1511746907615	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.qylSuES6oj33
+1511746907624	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511746907652	geckodriver::marionette	INFO	Connecting to Marionette on localhost:18663
+1511746908979	Marionette	INFO	Listening on port 18663
+1511746910065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511746913997	Marionette	INFO	New connections will no longer be accepted
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 15768] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xE20003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3E0003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+1511747508235	geckodriver	INFO	Listening on 127.0.0.1:19969
+1511747510229	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.HXtnkooWQq32
+1511747510236	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747510270	geckodriver::marionette	INFO	Connecting to Marionette on localhost:19975
+1511747511610	Marionette	INFO	Listening on port 19975
+1511747512697	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1511747520174	Marionette	INFO	New connections will no longer be accepted
+[Child 2168] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1511747555585	geckodriver	INFO	Listening on 127.0.0.1:20094
+1511747557579	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.5iydiiJc6MKH
+1511747557586	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747557642	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20100
+1511747558829	Marionette	INFO	Listening on port 20100
+1511747559879	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1511747567026	Marionette	INFO	New connections will no longer be accepted
+[Child 6456] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1511747601754	geckodriver	INFO	Listening on 127.0.0.1:20322
+1511747603746	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.3V7o4WjIMXQS
+1511747603753	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747603790	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20328
+1511747605242	Marionette	INFO	Listening on port 20328
+1511747606293	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 27128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 27128] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1511747633152	geckodriver	INFO	Listening on 127.0.0.1:20477
+1511747635147	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.IgucdSDEtKZs
+1511747635154	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747635210	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20491
+1511747636625	Marionette	INFO	Listening on port 20491
+1511747637601	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3456] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+Ltu5WxO6I5j
+1511747679973	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747680030	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20614
+1511747681437	Marionette	INFO	Listening on port 20614
+1511747682569	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 12144] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1511747801755	geckodriver	INFO	Listening on 127.0.0.1:20982
+1511747803756	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.vfXQ3fMjmbzU
+1511747803764	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747803821	geckodriver::marionette	INFO	Connecting to Marionette on localhost:20996
+1511747805098	Marionette	INFO	Listening on port 20996
+1511747806048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+[Parent 26980] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 337: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+ipt error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1511747821226	Marionette	INFO	New connections will no longer be accepted
+[Child 14408] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 14408] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1511747837932	geckodriver	INFO	Listening on 127.0.0.1:21325
+1511747839926	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.rOMwZO4PTqbr
+1511747839934	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747839967	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21331
+1511747841330	Marionette	INFO	Listening on port 21331
+1511747842567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1511747850495	Marionette	INFO	New connections will no longer be accepted
+[Child 19736] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1511747868056	geckodriver	INFO	Listening on 127.0.0.1:21481
+1511747870063	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.TQpfoYFBgZoi
+1511747870070	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511747870114	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21487
+1511747871878	Marionette	INFO	Listening on port 21487
+1511747873166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 26: SyntaxError: expected expression, got '<'
+1511747880368	Marionette	INFO	New connections will no longer be accepted
+[Child 26304] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 26304] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1511748013445	geckodriver	INFO	Listening on 127.0.0.1:21993
+1511748015437	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.fulVGSD9BVbC
+1511748015444	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511748015482	geckodriver::marionette	INFO	Connecting to Marionette on localhost:21999
+1511748016652	Marionette	INFO	Listening on port 21999
+1511748017597	Marionette	WARN	TLS certificate errors will be ignored for this session
+1511748026007	Marionette	INFO	New connections will no longer be accepted
+[Child 10380] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1511748046139	geckodriver	INFO	Listening on 127.0.0.1:22259
+1511748048142	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.JPQ7mpyodMid
+1511748048147	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511748048186	geckodriver::marionette	INFO	Connecting to Marionette on localhost:22281
+1511748049765	Marionette	INFO	Listening on port 22281
+1511748051019	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 2484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1511748121241	geckodriver	INFO	Listening on 127.0.0.1:22462
+1511748123234	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.81sVwR2SQe0p
+1511748123242	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511748123286	geckodriver::marionette	INFO	Connecting to Marionette on localhost:22468
+1511748124965	Marionette	INFO	Listening on port 22468
+1511748126150	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 24808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1511748731240	geckodriver	INFO	Listening on 127.0.0.1:23774
+1511748733216	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.E3SObQYcoU47
+1511748733218	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511748733236	geckodriver::marionette	INFO	Connecting to Marionette on localhost:23781
+1511748734437	Marionette	INFO	Listening on port 23781
+1511748735523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=300&di=u3032528&ltu=http%3A%2F%2Fblog.csdn.net%2Fxiaodanpeng%2Farticle%2Fdetails%2F50999026&dis=0&par=1440x860&psr=1440x900&cmi=2&dri=0&drs=1&ti=selenium-webdriver(python)%20--%20%E9%BC%A0%E6%A0%87%E4%BA%8B%E4%BB%B6(%E5%8F%8C%E5%87%BB%EF%BC%8C%E5%8F%B3%E9%94%AE)%20-%20CSDN%E5%8D%9A%E5%AE%A2&col=zh-CN&tpr=1511748827942&cpl=1&cfv=27&ant=0&cec=UTF-8&tcn=1511748828&exps=111000&cja=false&dc=2&ps=451x896&ari=2&pss=1259x5459&chi=1&ccd=24&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D5K1jvDaWiPC54A2Ke7q-3dexUgnIYadT4i93Hi0VAi3akVbMgwQHX_JKwgGrsHwCDXnXNTtomsUSU3OTvE1dO5VMOLppouwpgV4WRwkrMpK%26wd%3D%26eqid%3D8978181200006502000000065a1b74b3&cce=true&pis=-1x-1&tlm=1511748827&dai=1&pcs=1259x687&dtm=HTML_POST&cdo=-1, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=300&di=u3032528&ltu=http%3A%2F%2Fblog.csdn.net%2Fxiaodanpeng%2Farticle%2Fdetails%2F50999026&dis=0&par=1440x860&psr=1440x900&cmi=2&dri=0&drs=1&ti=selenium-webdriver(python)%20--%20%E9%BC%A0%E6%A0%87%E4%BA%8B%E4%BB%B6(%E5%8F%8C%E5%87%BB%EF%BC%8C%E5%8F%B3%E9%94%AE)%20-%20CSDN%E5%8D%9A%E5%AE%A2&col=zh-CN&tpr=1511748827942&cpl=1&cfv=27&ant=0&cec=UTF-8&tcn=1511748828&exps=111000&cja=false&dc=2&ps=451x896&ari=2&pss=1259x5459&chi=1&ccd=24&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D5K1jvDaWiPC54A2Ke7q-3dexUgnIYadT4i93Hi0VAi3akVbMgwQHX_JKwgGrsHwCDXnXNTtomsUSU3OTvE1dO5VMOLppouwpgV4WRwkrMpK%26wd%3D%26eqid%3D8978181200006502000000065a1b74b3&cce=true&pis=-1x-1&tlm=1511748827&dai=1&pcs=1259x687&dtm=HTML_POST&cdo=-1, line 83: unreachable code after return statement
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=300&di=u3032528&ltu=http%3A%2F%2Fblog.csdn.net%2Fliu_jian140126%2Farticle%2Fdetails%2F50517001&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D9QWyoGF-7tInMHHLEfI3jUCOS9m4EKK7QdJipvT7O3OM7uYQ5g3yZyEBi6cQ4V8tCRcwITEQrmtBvmokNxMaeNqhTXpaUInlUXEDpdL73XO%26wd%3D%26eqid%3Dcb8987a50000df17000000065a1b75d1&dai=1&cce=true&cmi=2&dc=2&cfv=27&tlm=1511749076&cja=false&ccd=24&ant=0&drs=1&psr=1440x900&cec=UTF-8&cdo=-1&cpl=1&dtm=HTML_POST&pis=-1x-1&ps=451x847&exps=111000&col=zh-CN&dis=0&tcn=1511749077&chi=1&ari=2&pcs=1133x670&par=1440x860&ti=Java%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%E6%80%BB%E7%BB%93%20-%20CSDN%E5%8D%9A%E5%AE%A2&tpr=1511749076562&dri=0&pss=1160x7031, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=300&di=u3032528&ltu=http%3A%2F%2Fblog.csdn.net%2Fliu_jian140126%2Farticle%2Fdetails%2F50517001&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D9QWyoGF-7tInMHHLEfI3jUCOS9m4EKK7QdJipvT7O3OM7uYQ5g3yZyEBi6cQ4V8tCRcwITEQrmtBvmokNxMaeNqhTXpaUInlUXEDpdL73XO%26wd%3D%26eqid%3Dcb8987a50000df17000000065a1b75d1&dai=1&cce=true&cmi=2&dc=2&cfv=27&tlm=1511749076&cja=false&ccd=24&ant=0&drs=1&psr=1440x900&cec=UTF-8&cdo=-1&cpl=1&dtm=HTML_POST&pis=-1x-1&ps=451x847&exps=111000&col=zh-CN&dis=0&tcn=1511749077&chi=1&ari=2&pcs=1133x670&par=1440x860&ti=Java%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%E6%80%BB%E7%BB%93%20-%20CSDN%E5%8D%9A%E5%AE%A2&tpr=1511749076562&dri=0&pss=1160x7031, line 83: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: http://pos.baidu.com/s?hei=90&wid=960&di=u2998112&ltu=http%3A%2F%2Fblog.csdn.net%2Fzykqaz%2Farticle%2Fdetails%2F72771949&dai=2&cec=UTF-8&dc=2&exps=111000&cmi=2&cpl=1&par=1440x860&pss=1133x2189&pis=-1x-1&dri=0&tcn=1511749228&pcs=1133x687&chi=1&ps=1781x302&drs=1&dtm=HTML_POST&cja=false&ant=0&psr=1440x900&cce=true&ccd=24&ti=selenium%20%E5%85%83%E7%B4%A0%E5%8F%AF%E4%BB%A5%E5%AE%9A%E4%BD%8D%E5%88%B0%EF%BC%8C%E4%BD%86%E6%98%AF%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BB%E9%97%AE%E9%A2%98%20-%20zykqaz%E7%9A%84%E5%8D%9A%E5%AE%A2%20-%20CSDN%E5%8D%9A%E5%AE%A2&cfv=27&ari=2&tlm=1511749227&cdo=-1&dis=0&col=zh-CN&tpr=1511749227511&ltr=http%3A%2F%2Fblog.csdn.net%2Fxiaodanpeng%2Farticle%2Fdetails%2F50999026, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=90&wid=960&di=u2998112&ltu=http%3A%2F%2Fblog.csdn.net%2Fzykqaz%2Farticle%2Fdetails%2F72771949&dai=2&cec=UTF-8&dc=2&exps=111000&cmi=2&cpl=1&par=1440x860&pss=1133x2189&pis=-1x-1&dri=0&tcn=1511749228&pcs=1133x687&chi=1&ps=1781x302&drs=1&dtm=HTML_POST&cja=false&ant=0&psr=1440x900&cce=true&ccd=24&ti=selenium%20%E5%85%83%E7%B4%A0%E5%8F%AF%E4%BB%A5%E5%AE%9A%E4%BD%8D%E5%88%B0%EF%BC%8C%E4%BD%86%E6%98%AF%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BB%E9%97%AE%E9%A2%98%20-%20zykqaz%E7%9A%84%E5%8D%9A%E5%AE%A2%20-%20CSDN%E5%8D%9A%E5%AE%A2&cfv=27&ari=2&tlm=1511749227&cdo=-1&dis=0&col=zh-CN&tpr=1511749227511&ltr=http%3A%2F%2Fblog.csdn.net%2Fxiaodanpeng%2Farticle%2Fdetails%2F50999026, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=250&di=u2734133&ltu=http%3A%2F%2Fblog.csdn.net%2Fzykqaz%2Farticle%2Fdetails%2F72771949&ti=selenium%20%E5%85%83%E7%B4%A0%E5%8F%AF%E4%BB%A5%E5%AE%9A%E4%BD%8D%E5%88%B0%EF%BC%8C%E4%BD%86%E6%98%AF%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BB%E9%97%AE%E9%A2%98%20-%20zykqaz%E7%9A%84%E5%8D%9A%E5%AE%A2%20-%20CSDN%E5%8D%9A%E5%AE%A2&pis=-1x-1&dis=0&dc=2&tlm=1511749227&pcs=1133x687&pss=1133x2189&ps=1648x22&cec=UTF-8&ltr=http%3A%2F%2Fblog.csdn.net%2Fxiaodanpeng%2Farticle%2Fdetails%2F50999026&dtm=HTML_POST&tcn=1511749228&dai=3&dri=0&ccd=24&cmi=2&cce=true&chi=1&cpl=1&cfv=27&cdo=-1&psr=1440x900&ari=2&cja=false&tpr=1511749227511&par=1440x860&exps=111000&col=zh-CN&ant=0&drs=1, line 83: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/s?hei=250&wid=250&di=u2734133&ltu=http%3A%2F%2Fblog.csdn.net%2Fzykqaz%2Farticle%2Fdetails%2F72771949&ti=selenium%20%E5%85%83%E7%B4%A0%E5%8F%AF%E4%BB%A5%E5%AE%9A%E4%BD%8D%E5%88%B0%EF%BC%8C%E4%BD%86%E6%98%AF%E6%97%A0%E6%B3%95%E7%82%B9%E5%87%BB%E9%97%AE%E9%A2%98%20-%20zykqaz%E7%9A%84%E5%8D%9A%E5%AE%A2%20-%20CSDN%E5%8D%9A%E5%AE%A2&pis=-1x-1&dis=0&dc=2&tlm=1511749227&pcs=1133x687&pss=1133x2189&ps=1648x22&cec=UTF-8&ltr=http%3A%2F%2Fblog.csdn.net%2Fxiaodanpeng%2Farticle%2Fdetails%2F50999026&dtm=HTML_POST&tcn=1511749228&dai=3&dri=0&ccd=24&cmi=2&cce=true&chi=1&cpl=1&cfv=27&cdo=-1&psr=1440x900&ari=2&cja=false&tpr=1511749227511&par=1440x860&exps=111000&col=zh-CN&ant=0&drs=1, line 83: unreachable code after return statement
+JavaScript error: http://cpro.baidustatic.com/cpro/ui/noexpire/js/4.0.1/adClosefeedbackUpgrade.min.js, line 1: TypeError: g is null
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript error: , line 0: Error: Permission denied to access property "href"
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[NPAPI 14324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 23996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+ookie_4644b13.js, line 4: ReferenceError: c is not defined
+1511749399198	geckodriver	INFO	Listening on 127.0.0.1:25386
+1511749401188	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.iewHUzGilwO9
+1511749401192	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511749401215	geckodriver::marionette	INFO	Connecting to Marionette on localhost:25392
+1511749402557	Marionette	INFO	Listening on port 25392
+1511749403553	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 14696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 14696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+g to Marionette on localhost:25759
+1511749546105	Marionette	INFO	Listening on port 25759
+1511749547093	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10888] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1511749596949	geckodriver	INFO	Listening on 127.0.0.1:25809
+1511749598934	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.DkqRWJlu6jX5
+1511749598939	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511749598976	geckodriver::marionette	INFO	Connecting to Marionette on localhost:25820
+1511749600509	Marionette	INFO	Listening on port 25820
+1511749601537	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 106: TypeError: this._recipeManager is null
+JavaScript warning: https://pos.baidu.com/lcrm?mpdi=227509&rtbid=1972219&rdid=9223372032564532863&dc=2&di=968278&dri=0&dis=0&dai=0&ps=646x904&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1511749654166&cop=zdclassid%3D1039%26zhidaoqid%3D267478724870375405%26zdquery%3DMessage%253A%2520POST%2520%252Fsession%2520actions%2520did%2520not%2520match%2520a%2520known%2520command&ti=python%2Bselenium3%2Bfirefox%E4%B8%AD%E4%BD%BF%E7%94%A8ActionChains%E5%8F%8C%E5%87%BB%E7%AD%89%E9%BC%A0%E6%A0%87%E4%BA%8B%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%8A%A5%E9%94%99%EF%BC%8C%E4%BD%86%E6%98%AF%E5%85%B6%E5%AE%83%E8%B0%B7%E6%AD%8C%E3%80%81ie&ari=2&dbv=0&drs=3&pcs=1259x687&pss=1259x2023&cfv=0&cpl=1&chi=1&cce=true&cec=gbk&tlm=1511749654&prot=2&rw=687&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F267478724870375405.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DphoinpZti2psGtOTzmIroUTKOtoLLm8DpcEabizBlWvSb7DqO12xdv837Gel6JYVdF_f188XTYG4jCReHwEnDE35c_8jcg_XXuYJU0GJWuu%26wd%3D%26eqid%3Da265a2d5000114db000000065a1b780e&ecd=1&uc=1440x860&pis=-1x-1&sr=1440x900&tcn=1511749655&qn=d3a862aa180d96a6&dpv=d3a862aa180d96a6&tt=1511749654107.637.702.703, line 83: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/lcrm?mpdi=227509&rtbid=1972219&rdid=9223372032564532863&dc=2&di=968278&dri=0&dis=0&dai=0&ps=646x904&enu=encoding&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1511749654166&cop=zdclassid%3D1039%26zhidaoqid%3D267478724870375405%26zdquery%3DMessage%253A%2520POST%2520%252Fsession%2520actions%2520did%2520not%2520match%2520a%2520known%2520command&ti=python%2Bselenium3%2Bfirefox%E4%B8%AD%E4%BD%BF%E7%94%A8ActionChains%E5%8F%8C%E5%87%BB%E7%AD%89%E9%BC%A0%E6%A0%87%E4%BA%8B%E4%BB%B6%E6%93%8D%E4%BD%9C%E6%8A%A5%E9%94%99%EF%BC%8C%E4%BD%86%E6%98%AF%E5%85%B6%E5%AE%83%E8%B0%B7%E6%AD%8C%E3%80%81ie&ari=2&dbv=0&drs=3&pcs=1259x687&pss=1259x2023&cfv=0&cpl=1&chi=1&cce=true&cec=gbk&tlm=1511749654&prot=2&rw=687&ltu=https%3A%2F%2Fzhidao.baidu.com%2Fquestion%2F267478724870375405.html&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DphoinpZti2psGtOTzmIroUTKOtoLLm8DpcEabizBlWvSb7DqO12xdv837Gel6JYVdF_f188XTYG4jCReHwEnDE35c_8jcg_XXuYJU0GJWuu%26wd%3D%26eqid%3Da265a2d5000114db000000065a1b780e&ecd=1&uc=1440x860&pis=-1x-1&sr=1440x900&tcn=1511749655&qn=d3a862aa180d96a6&dpv=d3a862aa180d96a6&tt=1511749654107.637.702.703, line 83: unreachable code after return statement
+JavaScript warning: http://c.csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript warning: http://csdnimg.cn/rabbit/exposure-click/main.js?v1.15.23, line 500: unreachable code after return statement
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=251d220b6428, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 41: TypeError: StackExchange.ready is not a function
+JavaScript error: https://cdn.sstatic.net/Js/stub.en.js?v=251d220b6428, line 1: ReferenceError: $ is not defined
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 73: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 286: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 340: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 347: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 636: TypeError: StackExchange.ifUsing is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 647: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 715: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 756: TypeError: StackExchange.ready is not a function
+JavaScript error: https://stackoverflow.com/questions/42608477/message-no-such-element-unable-to-locate-element, line 1014: TypeError: StackExchange.ready is not a function
+JavaScript error: http://bdimg.share.baidu.com/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+[Child 27316] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1511753514882	geckodriver	INFO	Listening on 127.0.0.1:38900
+1511753516884	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.7y3I34d9Qo4f
+1511753516892	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511753516935	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38906
+1511753518363	Marionette	INFO	Listening on port 38906
+1511753519506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1511753645034	geckodriver	INFO	Listening on 127.0.0.1:39362
+1511753647026	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.6Kw4WX21gaMa
+1511753647034	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511753647094	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39368
+1511753648584	Marionette	INFO	Listening on port 39368
+1511753649875	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 26296] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+uOnTHqvNRW
+1511753677881	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511753677942	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39506
+1511753679418	Marionette	INFO	Listening on port 39506
+1511753680497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 26788] WARNING: pipe error: 109: file c:/builds/moz2_1511753710252	mozprofile::profile	INFO	Using profile path C:\Users\shj\AppData\Local\Temp\rust_mozprofile.Tq9gpnrkDvFw
+1511753710254	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe
+1511753710290	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39771
+1511753711441	Marionette	INFO	Listening on port 39771
+1511753712702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 25292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 25292] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w64-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345

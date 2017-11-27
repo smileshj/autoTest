@@ -11,8 +11,8 @@ from time import sleep,ctime
 import random
 
 driver=webdriver.Firefox()
+# driver=webdriver.Chrome()
 """
-driver=webdriver.Chrome()
 driver.get("https://www.baidu.com")
 #加u是python2的写法，因为python3全都改成utf-8了，所以3不需要加u
 driver.find_element_by_id("kw").send_keys(u'selesium')
@@ -100,10 +100,14 @@ all_h=driver.window_handles
 print(all_h)
 """
 """
-#测试random随机点击，运行报错:IndexError: list index out of range
+#测试random随机点击。火狐52版本运行报错:IndexError: list index out of range
 driver.get("https://www.baidu.com")
-driver.find_element_by_id("kw").send_keys("yoyoketang")
+#driver.implicitly_wait(10)这个等待，火狐52版本不支持，Chrome62正常运行
+# driver.implicitly_wait(10)
+
+driver.find_element_by_id("kw").send_keys("selenium")
 driver.find_element_by_id("kw").submit()
+sleep(5)#假设网速良好，火狐等待页面元素加载后再点击
 s=driver.find_elements_by_css_selector("h3.t>a")
 t=random.randint(0,9)
 s[t].click()
@@ -117,3 +121,19 @@ driver.find_element_by_name("email").send_keys("123")
 driver.find_element_by_name("password").send_keys("456")
 driver.switch_to.default_content()
 """
+"""
+#鼠标定位select多选框，修改后保存，火狐版本>47会报错，其它浏览器正常
+url="https://www.baidu.com/"
+driver.get(url)
+mouse=driver.find_element_by_link_text("设置")
+ActionChains(driver).move_to_element(mouse).perform()
+driver.find_element_by_link_text("搜索设置").click()
+#在driver.get(url)后面没有driver.implicitly_wait(10)的话，这里一定要加sleep，否则定位失败
+sleep(2)
+#xpath定位select下拉框选项
+driver.find_element_by_xpath(".//*[@id='nr']/option[1]").click()
+driver.find_element_by_xpath("//a[@class='prefpanelgo']").click()
+#alert()单按钮，dismiss右上角的关闭取消弹出框
+driver.switch_to_alert().accept()
+"""
+
