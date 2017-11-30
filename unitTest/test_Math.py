@@ -2,7 +2,7 @@ from calculator import Math
 import unittest
 
 class TestMath(unittest.TestCase):
-    #环境准备，必要的setUp方法
+    #前置条件
     def setUp(self):
         print("test start")
 
@@ -16,7 +16,7 @@ class TestMath(unittest.TestCase):
         j = Math(20, 10)
         self.assertEqual(j.minus(),1)#相减正确结果10，这里写个错误结果
 
-    #测试结束后，必要的tearDown方法
+    #测试结束，数据还原，后置条件
     def tearDown(self):
         print("test end")
 
