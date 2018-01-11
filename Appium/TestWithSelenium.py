@@ -12,11 +12,13 @@ from time import sleep,ctime
 import random
 import re  #正则
 
+# 配置火狐，用于脚本打开网页时firebug不见的情况，https://www.cnblogs.com/yoyoketang/p/6128664.html
 profile_directory=r'C:\Users\shj\AppData\Roaming\Mozilla\Firefox\Profiles\g6iqbylc.default'
 profile=webdriver.FirefoxProfile(profile_directory)
 driver=webdriver.Firefox(profile)
-# driver=webdriver.Chrome()
 """
+driver=webdriver.Chrome()
+
 driver.get("https://www.baidu.com")
 #加u是python2的写法，因为python3全都改成utf-8了，所以3不需要加u
 driver.find_element_by_id("kw").send_keys(u'selesium')
@@ -27,8 +29,10 @@ driver.get("http://www.163.com")
 driver.back()
 driver.get("http://www.51zxw.net")
 driver.find_element_by_class_name("s_ipt").send_keys("selenium")
+
 driver.close() #关闭当前窗口
 driver.quit() #退出浏览器进程
+
 
 driver.find_element_by_xpath("//input[@id='kw' and @autocomplete='off']").send_keys("selenium")
 driver.find_element_by_xpath("//span[@id='s_kw_wrap']/input").send_keys(" python")
@@ -248,9 +252,10 @@ driver.execute_script(js2)
 #查看帮助文档，先在DOS命令提示符中输入python -m pydoc -p 8099
 #然后在浏览器打开http://localhost:8099/selenium.webdriver.firefox.webdriver.html
 """
+"""
+#断言验证
 import unittest
 # c=help(unittest)
-
 
 class IntegerArithmeticTestCase(unittest.TestCase):
     def testAdd(self):  # test method names begin with 'test'
@@ -264,3 +269,4 @@ class IntegerArithmeticTestCase(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+"""
