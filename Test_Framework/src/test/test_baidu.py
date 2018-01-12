@@ -29,14 +29,15 @@ class TestBaiDu(unittest.TestCase):
         self.driver.get(self.URL)
 
     def tearDown(self):
-        self.driver.quit()
+        print("dsf1")
+        # self.driver.quit()
 
     def test_search_0(self):
         self.driver.find_element(*self.locator_kw).send_keys("selenium")
         self.driver.find_element(*self.locator_su).click()
         time.sleep(2)
         links = self.driver.find_element(*self.locator_result)#result是：WebElement (session="4deefab86ff7db61db83d4223ae700f3", element="0.03811039743044686-3")>，不可迭代即不可for循环。
-        print(links)  #
+        print(links)
         # for link in links:
         #     print(link.text)
 
@@ -48,5 +49,5 @@ class TestBaiDu(unittest.TestCase):
         links = self.driver.find_element(*self.locator_result)
         print(links)
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     unittest.main()
