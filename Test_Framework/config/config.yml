@@ -1,0 +1,3 @@
+#这个yml文件太坑。URL：后面有个空格。我刚开始自己敲少了空格，一直报错 'str' object has no attribute 'get' ，
+#百度上查找解决方法，浪费了好多时间，最后看到同样的例子，问题就出在这个配置文件，然后去github上复制博主的代码对比，区别一下子显示了。
+URL: http:www.baidu.com

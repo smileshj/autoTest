@@ -1,16 +1,19 @@
-import os
+# import os
 import time
 import unittest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from utils.config import Config,DRIVER_PATH
 
 class TestBaiDu(unittest.TestCase):
-    URL = "http://www.baidu.com"
+    URL = Config().get('URL')
+    #URL = "http://www.baidu.com"
     #定义读取driver的路径
-    #abspath是当前脚本的绝对路径，dirname返回path的目录
-    base_path = os.path.dirname(os.path.abspath(__file__))+'\..\..'#加的'\..\..'起到的效果是向上返回两层
+    #abspath是当前脚本的绝对路径，路径带文件本身，dirname返回的是不带文件本身的路径，即文件所在路径
+    #print(os.path.abspath(__file__))   #E:\Program\pythonProject\Test_Framework\src\test\test_baidu.py，去别就是后面有没有\test_baidu.py
+    # base_path = os.path.dirname(os.path.abspath(__file__))+'\..\..'#加的'\..\..'起到的效果是向上返回两层
     # print(base_path)
-    driver_path = os.path.abspath(base_path+'\drivers\chromedriver.exe')
+    # driver_path = os.path.abspath(base_path+'\drivers\chromedriver.exe')
     # print(driver_path)
 
     #os.path.split(path)将path分割成目录和文件名二元组返回
@@ -25,7 +28,7 @@ class TestBaiDu(unittest.TestCase):
 
     def setUp(self):
         #连接驱动，打开浏览器
-        self.driver = webdriver.Chrome(executable_path=self.driver_path)
+        self.driver = webdriver.Chrome(executable_path=DRIVER_PATH+'\chromedriver.exe')
         self.driver.get(self.URL)
 
     def tearDown(self):

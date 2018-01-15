@@ -14,7 +14,13 @@ selesium3.4.1和python3.6.1
 1.new 多个上述的Python package，用于存放不同文件
 2.单个python文件，代码部分方法，变成一个类时，就是class 类名(unittest.TestCase):
 变成方法时，就是 def 方法名（self），原本的属性要通过self.属性访问。
-
+3.关于yml文件，需要在python的安装路径Scripts目录下，左手按住shift键，右键点击在此处打开命令窗口，输入pip install pyyaml
+4.直接在名为config的python package下新建一个文件，命名为config.yml，yml文件，写法URL: http:www.baidu.com。注意冒号后面一定有个空格。
+5.在utils中新建file_reader.py文件，为了读取yaml文件，封装一个yamlReader类
+6.在utils中创建一个config.py文件读取配置文件。
+7.config.py，from utils.file_reader import YmalReader导入不成功，百度方案：在pycharm中设置source路径file–>setting–>project–>project structure
+点击项目名，右键选择source，点击底部的ok。这样import的模块类等，就是通过这些source文件夹作为根路径来查找，也就是在这些source文件夹中查找import的东西。
+8.
 
 
 
