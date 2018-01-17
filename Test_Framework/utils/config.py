@@ -25,10 +25,12 @@ class Config:
     yaml可以通过‘---’分节。用YamlReader读取返回的是一个list，第一项是默认的节，如果有多个节，可以传入index获取。
     我们可以把框架相关的配置放在默认节点，其它的关于项目的配置放在其它节点中。可以在框架中实现多个项目的测试。
     """
-    def getInfo(self,element,index=0):
+    def get(self,element,index=0):
         return self.config[index].get(element)
 
 
 if __name__ == '__main__':
     c=Config()
-    c.getInfo('URL')
+    a=c.get('URL')
+    print(a)
+

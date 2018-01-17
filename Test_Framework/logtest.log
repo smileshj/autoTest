@@ -1,0 +1,6 @@
+2018-01-16 16:18:19,139 - framework - INFO - <selenium.webdriver.remote.webelement.WebElement (session="63761077a2e11d958715c95ee8a404d6", element="0.5671418590327577-3")>
+2018-01-16 16:18:27,494 - framework - INFO - <selenium.webdriver.remote.webelement.WebElement (session="b2a7ca86aecb6e22b3ff4ebda6177dc2", element="0.5263782869687132-3")>
+2018-01-17 11:01:52,428 - framework - INFO - <selenium.webdriver.remote.webelement.WebElement (session="889bf98aaf3e07cc66385a746fafd1ba", element="0.8898335035172502-3")>
+2018-01-17 11:02:04,066 - framework - INFO - <selenium.webdriver.remote.webelement.WebElement (session="5f36d9444eaba8ad7da3ef89db53ad88", element="0.8046369829966185-3")>
+2018-01-17 11:05:05,036 - framework - INFO - <selenium.webdriver.remote.webelement.WebElement (session="ce6bed7f8f9459d9915acc2726acb84b", element="0.27278734720382203-3")>
+2018-01-17 11:05:16,294 - framework - INFO - <selenium.webdriver.remote.webelement.WebElement (session="1356eb58cd23f2f7b44349b09166124d", element="0.6684921216194666-3")>

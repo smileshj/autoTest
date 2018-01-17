@@ -13,14 +13,18 @@ selesium3.4.1和python3.6.1
 学习网址：http://blog.csdn.net/huilan_same/article/details/76572411
 1.new 多个上述的Python package，用于存放不同文件
 2.单个python文件，代码部分方法，变成一个类时，就是class 类名(unittest.TestCase):
-变成方法时，就是 def 方法名（self），原本的属性要通过self.属性访问。
+  变成方法时，就是 def 方法名（self），原本的属性要通过self.属性访问。
 3.关于yml文件，需要在python的安装路径Scripts目录下，左手按住shift键，右键点击在此处打开命令窗口，输入pip install pyyaml
 4.直接在名为config的python package下新建一个文件，命名为config.yml，yml文件，写法URL: http:www.baidu.com。注意冒号后面一定有个空格。
 5.在utils中新建file_reader.py文件，为了读取yaml文件，封装一个yamlReader类
 6.在utils中创建一个config.py文件读取配置文件。
 7.config.py，from utils.file_reader import YmalReader导入不成功，百度方案：在pycharm中设置source路径file–>setting–>project–>project structure
-点击项目名，右键选择source，点击底部的ok。这样import的模块类等，就是通过这些source文件夹作为根路径来查找，也就是在这些source文件夹中查找import的东西。
-8.
+  点击项目名，右键选择source，点击底部的ok。这样import的模块类等，就是通过这些source文件夹作为根路径来查找，也就是在这些source文件夹中查找import的东西。
+8.LOG，在utils中创建log.py文件，python本身有很方便的logging库，只需简单封装。log配置过程中比较顺利。
+9.修改file_reader.py。把数据放到excel中，并读取。以便实现数据分离，参数化。在python.exe目录，左手按住shilf，右键在此处打开命令窗口，输入pip install xlrd
+  xlrd（读excel）表、xlwt（写excel）表、openpyxl（可读写excel表）
+ 10.在看生成报告时，遇到困难，看不懂，只能硬着头皮再看看，原来就是复制博主的HTMLTestRunner.py放到utils目录下，然后在用例中进行调用就可以生成html文件，在浏览器中打开就能查看报告了。
+ 11.如果把方法名的第一个字母大写，程序运行竟然不把它当方法，直接跳过了
 
 
 
