@@ -23,8 +23,12 @@ selesium3.4.1和python3.6.1
 8.LOG，在utils中创建log.py文件，python本身有很方便的logging库，只需简单封装。log配置过程中比较顺利。
 9.修改file_reader.py。把数据放到excel中，并读取。以便实现数据分离，参数化。在python.exe目录，左手按住shilf，右键在此处打开命令窗口，输入pip install xlrd
   xlrd（读excel）表、xlwt（写excel）表、openpyxl（可读写excel表）
- 10.在看生成报告时，遇到困难，看不懂，只能硬着头皮再看看，原来就是复制博主的HTMLTestRunner.py放到utils目录下，然后在用例中进行调用就可以生成html文件，在浏览器中打开就能查看报告了。
- 11.如果把方法名的第一个字母大写，程序运行竟然不把它当方法，直接跳过了
+10.在看生成报告时，遇到困难，看不懂，只能硬着头皮再看看，原来就是复制博主的HTMLTestRunner.py放到utils目录下，然后在用例中进行调用就可以生成html文件，在浏览器中打开就能查看报告了。
+11.如果把方法名的第一个字母大写，程序运行竟然不把它当方法，直接跳过了
+12.在utils中创建mail.py，初始化时传入全部所需数据，message是正文，可不填，path可以传list或者str；receiver支持多人，用”;”隔开就行
+13.配置了PageObjecth后注释掉此段，common的browser、page，还有page的baidu_main_page.py和baidu_result_page.py
+14.
+
 
 
 

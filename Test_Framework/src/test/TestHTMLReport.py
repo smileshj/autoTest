@@ -48,7 +48,7 @@ class ExampleCase1(unittest.TestCase):
 
     def test_minus(self):
         """用例2，minus，此用例执行失败，4-3！=2"""
-        print('中文方法反反复复凤飞飞反复')
+        print('支持中文')
         self.assertEqual(self.a - self.b, 2)
 
 
