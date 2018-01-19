@@ -1,4 +1,4 @@
-Test_Rramework
+﻿Test_Rramework
     |--config (配置文件)config层，放配置文件，把所有的项目相关的配置均放到这里，用Python支持较好的配置文件格式如ini或yaml等进行配置。实现配置与代码分离。
     |--data   (数据文件)data层，放数据文件，可以把所有的testcase的参数化相关的文件放到这里，一般可采用xlsx、csv、xml等格式。实现数据与代码分离。
     |--drivers (驱动文件)drivers层，放所需的驱动，如Chromedriver、IEDriverServer等。
@@ -27,8 +27,11 @@ selesium3.4.1和python3.6.1
 11.如果把方法名的第一个字母大写，程序运行竟然不把它当方法，直接跳过了
 12.在utils中创建mail.py，初始化时传入全部所需数据，message是正文，可不填，path可以传list或者str；receiver支持多人，用”;”隔开就行
 13.配置了PageObjecth后注释掉此段，common的browser、page，还有page的baidu_main_page.py和baidu_result_page.py
-14.
-
+14.JMESPath库，这是一个让我们通过类似于xpath或点分法来定位json中的节点的库。复合请求，第二个请求可能会用到第一个请求返回值中的数据，这就要我们再次进行封装，做一个抽取器，从结果中抽取部分信息。
+  import jmespath，报错。百度，相关文章好少，在我一边低声骂脏话一边找文档中，我点了一个英文jmespath 0.9.3 : Python Package Index，然后进入download了whl文件，继续百度如何安装whl文件，
+  就是把下载的文件放到python安装路径\scripts目录下，然后左手按住shift键，右键点击在此处打开命令窗口，输入pip install jmespath-0.9.3-py2.py3-none-any.whl，搞定。
+15.faker库，在python安装路径\scripts目录下，然后左手按住shift键，右键点击在此处打开命令窗口，输入pip install faker
+16.
 
 
 
