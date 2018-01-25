@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/unitTest" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Appium" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Test_Framework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Practice" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

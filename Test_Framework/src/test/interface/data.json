@@ -1,0 +1,22 @@
+[
+{
+"request":{"uri":"/hello"},
+"response":{"text":"Hello World!"}
+}
+,
+  {
+      "request" :{
+              "uri": "/getJson",
+              "method" : "post"
+       },
+      "response" :{
+          "status" : 200,
+           "headers" :{
+              "content-type" : "application/json"
+           },
+          "json": {
+                "foo": "bar"
+               }
+      }
+}
+]

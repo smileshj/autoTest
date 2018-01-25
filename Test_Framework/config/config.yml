@@ -10,7 +10,10 @@ log:
      pattern: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 
 
----
-search:
-  - python
-  - selenium
+ip: 127.0.0.1
+port: 8080
+
+#---
+#search:
+#  - python
+#  - selenium

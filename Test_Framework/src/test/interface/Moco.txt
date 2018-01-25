@@ -1,0 +1,22 @@
+1.grunt and mockServer
+（window）在控制台输入  npm install -g grunt-cli
+（linux,mac）在终端输入 sudo npm install -g grunt-cli
+
+
+2.在新项目目录下
+方法一 新建文件夹gruntTest，打开文件夹，cmd 输入 npm init ，然后一直按回车就可以。
+方法二，新建项目要有dist文件夹、src文件夹、test文件夹、Gruntfile.js、package.json
+
+出现WARN,其实不重要，只要package.json中有
+
+{
+  "name": "my-project-name",
+  "version": "0.1.0",
+  "devDependencies": {
+  }
+}
+
+这个更好玩，模拟服务器MockServer之Moco详细介绍
+http://blog.csdn.net/vite_s/article/details/54583243
+http://blog.csdn.net/shensky711/article/details/52770686
+有jdk环境，有jar包，有json文件，有命令java -jar 包名 start -p 端口 -c 文件名 

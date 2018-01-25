@@ -1,0 +1,22 @@
+cmd中输入java -version
+显示版本就是正常安装jdk。
+
+由于安装了QTP或是其他导致jdk不可用的解决方法：删除系统高级环境变量
+
+用编辑文本打开就是这种不分开原来的界面
+用户变量：
+
+变量名：_JAVA_OPTIONS
+变量值：-Xrunjvmhook -Xbootclasspath/a:"D:\Program Files (x86)\HP\Unified Functional Testing\bin\java_shared\classes";"D:\Program Files (x86)\HP\Unified Functional Testing\bin\java_shared\classes\jasmine.jar"
+
+
+系统变量:
+
+变量名：_JAVA_OPTIONS
+变量值：-Xrunjvmhook -Xbootclasspath/a:"D:\Program Files (x86)\HP\Unified Functional Testing\bin\java_shared\classes";"D:\Program Files (x86)\HP\Unified Functional Testing\\bin\java_shared\classes\jasmine.jar"
+
+变量名：IBM_JAVA_OPTIONS
+变量值：-Xrunjvmhook -Xbootclasspath/a:"D:\Program Files (x86)\HP\Unified Functional Testing\bin\java_shared\classes;D:\Program Files (x86)\HP\Unified Functional Testing\bin\java_shared\classes\jasmine.jar"
+
+变量名：JAVA_TOOL_OPTIONS
+变量值：-agentlib:jvmhook
