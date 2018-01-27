@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e50d009b-9830-48bd-805b-47792fa4d18d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Appium/TestAPK_ContactManager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/Appium学习.docx" afterPath="$PROJECT_DIR$/Appium/Appium学习.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py" afterPath="$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Appium/android_simple.py" afterPath="$PROJECT_DIR$/Appium/android_simple.py" />
     </list>
     <ignored path="pythonProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,6 +29,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$spider.coverage" NAME="spider Coverage Results" MODIFIED="1515567915256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$TestAppium__1_.coverage" NAME="TestAppium (1) Coverage Results" MODIFIED="1511494550358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
     <SUITE FILE_PATH="coverage/pythonProject$mock_demo_1.coverage" NAME="mock_demo_1 Coverage Results" MODIFIED="1516701162465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/mockTest" />
+    <SUITE FILE_PATH="coverage/pythonProject$TestAPKzhihu.coverage" NAME="TestAPKzhihu Coverage Results" MODIFIED="1517035572719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
     <SUITE FILE_PATH="coverage/pythonProject$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1510826095035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$TestLogin.coverage" NAME="TestLogin Coverage Results" MODIFIED="1511776659232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/MyWorkFileSHJ/StudyByMyself/selenium学习" />
     <SUITE FILE_PATH="coverage/pythonProject$PythonBaiduRemote.coverage" NAME="PythonBaiduRemote Coverage Results" MODIFIED="1511162009137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/MyWorkFileSHJ/StudyByMyself/selenium学习" />
@@ -40,7 +45,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$poker__1_.coverage" NAME="poker (1) Coverage Results" MODIFIED="1511507290521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/pythonProject$TestHTMLReport.coverage" NAME="TestHTMLReport Coverage Results" MODIFIED="1516158915412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Framework/src/test" />
     <SUITE FILE_PATH="coverage/pythonProject$test_Math__1_.coverage" NAME="test_Math (1) Coverage Results" MODIFIED="1511510090731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unitTest" />
-    <SUITE FILE_PATH="coverage/pythonProject$TestAndroidVirtualConnet.coverage" NAME="TestAndroidVirtualConnet Coverage Results" MODIFIED="1510815845369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$TestAndroidVirtualConnet.coverage" NAME="TestAndroidVirtualConnet Coverage Results" MODIFIED="1517043284229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
     <SUITE FILE_PATH="coverage/pythonProject$TestAppium.coverage" NAME="TestAppium Coverage Results" MODIFIED="1511431685863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonProject$test_Math.coverage" NAME="test_Math Coverage Results" MODIFIED="1516160096579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unitTest" />
     <SUITE FILE_PATH="coverage/pythonProject$poker.coverage" NAME="poker Coverage Results" MODIFIED="1511509740839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -48,7 +53,7 @@
     <SUITE FILE_PATH="coverage/pythonProject$mock_socket_server.coverage" NAME="mock_socket_server Coverage Results" MODIFIED="1516758555799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Framework/src/test/mock" />
     <SUITE FILE_PATH="coverage/pythonProject$TestMath.coverage" NAME="TestMath Coverage Results" MODIFIED="1511488953214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unitTest" />
     <SUITE FILE_PATH="coverage/pythonProject$func_test.coverage" NAME="func_test Coverage Results" MODIFIED="1516852238912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Practice/mockTest" />
-    <SUITE FILE_PATH="coverage/pythonProject$android_simple.coverage" NAME="android_simple Coverage Results" MODIFIED="1516954253742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
+    <SUITE FILE_PATH="coverage/pythonProject$android_simple.coverage" NAME="android_simple Coverage Results" MODIFIED="1517025992944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Appium" />
     <SUITE FILE_PATH="coverage/pythonProject$HTMLTestRunner_PY3.coverage" NAME="HTMLTestRunner_PY3 Coverage Results" MODIFIED="1516155650588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HTMLTestRunner_PY3-master" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -60,23 +65,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="android_simple.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Appium/android_simple.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestAndroidVirtualConnet.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestAndroidVirtualConnet.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -98,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="E:/MyWorkFileSHJ/StudyByMyself/selenium学习/TestLogin.py" />
         <option value="$PROJECT_DIR$/Fiddler/FiddlerPractice1.py" />
         <option value="$PROJECT_DIR$/test1.py" />
         <option value="$PROJECT_DIR$/test3.py" />
@@ -149,6 +140,8 @@
         <option value="$PROJECT_DIR$/Practice/mockTest/function.py" />
         <option value="$PROJECT_DIR$/Practice/mockTest/func_test.py" />
         <option value="$PROJECT_DIR$/Appium/android_simple.py" />
+        <option value="$PROJECT_DIR$/Appium/TestAPKzhihu.py" />
+        <option value="$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py" />
       </list>
     </option>
   </component>
@@ -159,9 +152,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="196" />
-    <option name="y" value="126" />
-    <option name="width" value="1061" />
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1448" />
     <option name="height" value="868" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -205,6 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,14 +314,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pythonProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Appium" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,20 +345,21 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Program\pythonProject\Appium" />
+      <recent name="E:\Program\pythonProject\Test_Framework\drivers" />
+      <recent name="E:\Program\pythonProject\HTMLTestRunner_PY3-master\img" />
+      <recent name="E:\Program\pythonProject\Test_Framework\data" />
+      <recent name="E:\Program\pythonProject" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Program\pythonProject\Practice" />
       <recent name="E:\Program\pythonProject\Appium" />
       <recent name="E:\Program\pythonProject" />
       <recent name="E:\Program\pythonProject\unitTest" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\Program\pythonProject\Test_Framework\drivers" />
-      <recent name="E:\Program\pythonProject\HTMLTestRunner_PY3-master\img" />
-      <recent name="E:\Program\pythonProject\Test_Framework\data" />
-      <recent name="E:\Program\pythonProject" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.android_simple">
+  <component name="RunManager" selected="Python.TestAndroidVirtualConnet">
     <configuration default="false" name="test_socket" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -388,42 +396,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="mockfunc_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/mockTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/mockTest/mockfunc_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="mockClientRequest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice/mockTest" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="pythonProject" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/mockTest/mockClientRequest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="android_simple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -438,6 +410,42 @@
       <module name="pythonProject" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Appium/android_simple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestAndroidVirtualConnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestAPKzhihu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="pythonProject" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Program\pythonProject\Appium\TestAPK_ContactManager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -672,17 +680,17 @@
       <item index="0" class="java.lang.String" itemvalue="Python.test_baidu" />
       <item index="1" class="java.lang.String" itemvalue="Python.test_socket" />
       <item index="2" class="java.lang.String" itemvalue="Python.func_test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.mockfunc_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.mockClientRequest" />
-      <item index="5" class="java.lang.String" itemvalue="Python.android_simple" />
+      <item index="3" class="java.lang.String" itemvalue="Python.android_simple" />
+      <item index="4" class="java.lang.String" itemvalue="Python.TestAndroidVirtualConnet" />
+      <item index="5" class="java.lang.String" itemvalue="Python.TestAPKzhihu" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.android_simple" />
-        <item index="1" class="java.lang.String" itemvalue="Python.func_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_socket" />
-        <item index="3" class="java.lang.String" itemvalue="Python.mockClientRequest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.mockfunc_test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.TestAndroidVirtualConnet" />
+        <item index="1" class="java.lang.String" itemvalue="Python.TestAPKzhihu" />
+        <item index="2" class="java.lang.String" itemvalue="Python.android_simple" />
+        <item index="3" class="java.lang.String" itemvalue="Python.func_test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_socket" />
       </list>
     </recent_temporary>
   </component>
@@ -703,16 +711,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="196" y="126" width="1061" height="868" extended-state="0" />
+    <frame x="-4" y="-4" width="1448" height="868" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32606542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3323782" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36069986" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36069986" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24935065" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -764,13 +772,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../python/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="842" column="8" selection-start-line="842" selection-start-column="8" selection-end-line="842" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test_Framework/src/test/page/Page.py" />
     <entry file="file://$PROJECT_DIR$/Test_Framework/src/test/common/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1049,13 +1050,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Framework/src/test/test_baidu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="6" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unitTest/test_Math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1063,35 +1057,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Appium/TestWithSelenium.py">
+    <entry file="file://$PROJECT_DIR$/Test_Framework/src/test/test_baidu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="203">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Appium/TestAppium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        <state relative-caret-position="41">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py">
+    <entry file="file://$PROJECT_DIR$/Appium/TestWithSelenium.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="-405">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Appium/TestAPK_ContactManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Appium/android_simple.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="-135">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Appium/TestAndroidVirtualConnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
